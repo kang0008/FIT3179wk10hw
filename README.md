@@ -23,7 +23,7 @@
 <body>
     <div class="page">
 
-        <h2>Example 1: Overview+Detail</h2>
+        <h2Average Cars per Household- 2016</h2>
         <!-- pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-1">
@@ -34,7 +34,7 @@
         <br>
             <hr class="hr3">
 
-            <h2>Example 2: Interactive multiple views</h2>
+            <h2>New Cars sold by State</h2>
             <!-- pure grid group -->
             <div class="pure-g">
                 <div class="pure-u-1-1">
