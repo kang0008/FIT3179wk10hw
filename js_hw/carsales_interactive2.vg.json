@@ -4,7 +4,7 @@
       "url": "https://raw.githubusercontent.com/kang0008/FIT3179assignment2/main/data/carsales_by_category2.csv"
     },
     "vconcat":[{
-    "width": 600,
+    "width": "container",
     "height": 300,
     "mark": "line",
     "params": [{
