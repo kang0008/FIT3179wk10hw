@@ -5,7 +5,7 @@
   },
   "vconcat":[{
   "width": "container",
-  "height": 600,
+  "height": 450,
   "mark": "line",
   "params": [{
   "name": "statesss",
