@@ -1,5 +1,4 @@
 <html>
-
 <head>
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
@@ -22,7 +21,7 @@
 <body>
     <div class="page">
 
-        <h2Average Cars per Household- 2016</h2>
+        <h2>Average Cars per Household- 2016</h2>
         <!-- pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-1">
