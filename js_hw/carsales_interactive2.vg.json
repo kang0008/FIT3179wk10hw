@@ -19,13 +19,13 @@
         "axis": {"title":""},
         "scale": {"domain": {"param": "brush"}}
       },
-      "y": {"field":"car_sales2","type": "quantitative","title": "Count"},
+      "y": {"field":"car_sales2","type": "quantitative","axis":{"title": "Amount of Cars Sold"}},
       "color": {
         "field": "state"
       },
         "opacity": {
             "condition": {"param": "statesss", "value": 1},
-            "value": 0.2
+            "value": 0
         },
       "tooltip": [
         {"field": "state"},
@@ -46,7 +46,7 @@
             "field": "time",
             "timeUnit": "yearmonth"
           },
-          "y": {"field":"car_sales2","type": "quantitative","title": "Count"},
+          "y": {"field":"car_sales2","type": "quantitative", "axis": {"title": null}},
           "color": {
             "field": "state"
           }
