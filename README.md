@@ -54,7 +54,7 @@
         var specVis1 = "js_hw/choropleth_map.vg.json";
         vegaEmbed('#vis1', specVis1);
 
-        var specVis2 = "js_hw/carsales_interactive2.json";
+        var specVis2 = "js_hw/carsales_interactive2.vg.json";
         vegaEmbed('#vis2', specVis2);
     </script>
 </body>
