@@ -17,12 +17,10 @@
 
     <!-- CSS file -->
     <link rel="stylesheet" type="text/css" href="css/style.css" media="all">
-
-
 </head>
 
 <body>
-
+    <title>Multiple Visualisations</title>
     <div class="page">
 
         <h2>Example 1: Overview+Detail</h2>
