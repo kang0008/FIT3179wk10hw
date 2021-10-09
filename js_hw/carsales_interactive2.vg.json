@@ -33,7 +33,6 @@
       ]}
     },
     {
-        "width": "container",
         "height": 150,
         "mark": "line",
         "params": [{
