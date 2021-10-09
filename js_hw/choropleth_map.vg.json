@@ -3,7 +3,6 @@
   "title": "Average Cars per Household in Victoria",
   "width":800,
   "height":600,
-  "autosize": {"type" :"fit"},
   "projection": {"type":"equirectangular"},
   "data": {
       "url": "https://raw.githubusercontent.com/kang0008/FIT3179assignment2/main/vic_lga.topojson",
