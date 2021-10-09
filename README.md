@@ -2,7 +2,6 @@
 <html>
 
 <head>
-    <title>Multiple Visualisations</title>
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
@@ -17,10 +16,11 @@
 
     <!-- CSS file -->
     <link rel="stylesheet" type="text/css" href="css/style.css" media="all">
+    
+    <title>Multiple Visualisations</title>
 </head>
 
 <body>
-    <title>Multiple Visualisations</title>
     <div class="page">
 
         <h2>Example 1: Overview+Detail</h2>
