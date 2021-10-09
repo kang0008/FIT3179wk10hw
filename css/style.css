@@ -8,7 +8,7 @@
      background-color: lightgray;
    }
    .page{
-     width: 850px;    
+     width: 1000px;    
      background-color: white;   
      margin: auto;
      padding: 50px;
@@ -50,5 +50,5 @@
 }
 
 p.ex1 {
-    padding-right: 150px;
+    padding-right: 800px;
   }
