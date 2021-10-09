@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Multiple Visualisations | An Example</title>
+    <title>Multiple Visualisations</title>
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
@@ -34,11 +34,6 @@
         </div>
         <!-- end pure grid group -->
         <br>
-
-        <p>Example originally from:
-            <a href=https://vega.github.io/vega-lite/examples/interactive_overview_detail.html>link</a>
-
-
             <hr class="hr3">
 
             <h2>Example 2: Interactive multiple views</h2>
