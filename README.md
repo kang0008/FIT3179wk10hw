@@ -21,7 +21,7 @@
 <body>
     <div class="page">
 
-        <h2>Average Cars per Household- 2016</h2>
+        <h2> Average Cars per Household- 2016 </h2>
         <!-- pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-1">
