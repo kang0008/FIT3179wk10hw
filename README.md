@@ -23,14 +23,17 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
+  
+  <div id="choropleth_map"></div>
 
 <script type="text/javascript">
 
-    var spec2 = "js_hw/carsales_interactive2.json";
-    vegaEmbed('#choropleth_map', spec2).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
-  </script>
+  var spec2 = "js_hw/carsales_interactive2.json";
+  vegaEmbed('#choropleth_map', spec2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
 
 </body>
 </html>
