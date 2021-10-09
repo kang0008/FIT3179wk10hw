@@ -52,13 +52,6 @@
             <br>
 
             <hr class="hr3">
-
-            <div class="pure-g">
-                <div class="pure-u-1-1 small-font">
-                    <p>&copy; 2021 <a href="https://github.com/KaneSec/vega_lite" target="_blank">Kane Li</a>. Copyright reserved. Those examples are for educational purpose only.
-                </div>
-            </div>
-
     </div>
 
 
