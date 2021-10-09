@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Average Cars per Household in Victoria",
-  "width":800,
+  "width":"container",
   "height":600,
   "projection": {"type":"equirectangular"},
   "data": {
